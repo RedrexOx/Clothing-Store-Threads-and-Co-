@@ -30,6 +30,7 @@
         List<Brand> li=new BrandDaoImp().getAllBrand(); 
         List<Cloth> lic=new ClothDaoImp().getAllCloth(); 
     %>
+<--Commit Change-->
     
 <!DOCTYPE html>
 <html>
